@@ -1,33 +1,4 @@
-	/*
-	* Add edit delete rows dynamically using jquery and php
-	* http://www.amitpatil.me/
-	*
-	* @version
-	* 2.0 (4/19/2014)
-	* 
-	* @copyright
-	* Copyright (C) 2014-2015 
-	*
-	* @Auther
-	* Amit Patil
-	* Maharashtra (India)
-	*
-	* @license
-	* This file is part of Add edit delete rows dynamically using jquery and php.
-	* 
-	* Add edit delete rows dynamically using jquery and php is freeware script. you can redistribute it and/or 
-	* modify it under the terms of the GNU Lesser General Public License as published by
-	* the Free Software Foundation, either version 3 of the License, or
-	* (at your option) any later version.
-	* 
-	* Add edit delete rows dynamically using jquery and php is distributed in the hope that it will be useful,
-	* but WITHOUT ANY WARRANTY; without even the implied warranty of
-	* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-	* GNU General Public License for more details.
-	* 
-	* You should have received a copy of the GNU General Public License
-	* along with this script.  If not, see <http://www.gnu.org/copyleft/lesser.html>.
-	*/
+
 
 // init variables
 
